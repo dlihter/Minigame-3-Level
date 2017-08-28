@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a565b3147aebeb4e98f00e3fd3d22c4
+timeCreated: 1486925303
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - DeathPillar: {fileID: 1390026120821488, guid: 7db6b3f7a7da05a4ba2005c49d5b8c0c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
